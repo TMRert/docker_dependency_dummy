@@ -1,0 +1,5 @@
+.git
+.cache
+*.md
+venv
+integration_tests.sh
