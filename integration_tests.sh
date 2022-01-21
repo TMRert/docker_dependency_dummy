@@ -16,5 +16,6 @@ test_integration () {
 
 test_integration 3.8 
 test_integration 3.9 
+test_integration 3.10 
 test_integration 3.7 
 test_integration 2.7
